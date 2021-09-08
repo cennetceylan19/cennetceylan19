@@ -1,4 +1,8 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cennetceylan19v&show_icons=true">
+
 # Merhaba Ben Cennet Ceylan
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cennetceylan19" alt="cennttceylnn" /> </p>
+
 [![](https://img.shields.io/twitter/follow/cennttceylnn?style=social)](https://www.twitter.com/cennttceylnn)
 [![](https://img.shields.io/github/followers/cennetceylan19?style=social)](https://www.github.com/cennetceylan19)
 
