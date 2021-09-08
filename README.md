@@ -1,4 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cennetceylan19&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cennetceylan19&langs_count=9&&layout=compact)](https://github.com/cennttceylnn/github-readme-stats)
+
 
 # Merhaba Ben Cennet Ceylan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cennetceylan19" alt="cennttceylnn" /> </p>
