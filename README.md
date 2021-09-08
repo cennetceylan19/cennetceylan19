@@ -1,6 +1,4 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cennetceylan19&show_icons=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cennetceylan19&langs_count=9&&layout=compact)](https://github.com/cennttceylnn/github-readme-stats)
-
 
 # Merhaba Ben Cennet Ceylan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cennetceylan19" alt="cennttceylnn" /> </p>
@@ -13,3 +11,5 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://cennttceylnn.medium.com/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cennttceylnn)
 [![Mail Badge](https://img.shields.io/badge/cennetceylan819@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cennetceylan819@gmail.com)](mailto:cennetceylan819@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cennetceylan19&langs_count=9&&layout=compact)](https://github.com/cennetceylan19/github-readme-stats)
