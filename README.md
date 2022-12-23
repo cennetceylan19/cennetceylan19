@@ -2,6 +2,13 @@
 
 # Hello! I am Cennet. You can see codes about Deep Learning, Machine Learning and Robotic Operating System in here. 
 
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cennetceylan19" alt="cennttceylnn" /> </p>
 
 
