@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cennetceylan19&show_icons=true">
 
-# Hello! I am Cennet. You can see codes about Deep Learning, Machine Learning and Robotic Operating System in here. 
+# Hello! I am Cennet. You can see codes in here. 
 
 
 
